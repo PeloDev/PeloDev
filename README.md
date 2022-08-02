@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PeloDev
-- 👀 I’m interested in Javscript technologies, affecting communities, making some daily decisions by coin toss to reduce decision fatigue, and blockchain
-- 🌱 I’m currently learning about DevOps and setting up CI/CD pipelines
+- 👀 I’m interested in learning more about back end technologies, and venturing out more from the JS ecosystem
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on anything big or small that makes a meaningful contribution
-- 📫 How to reach me: pelothedeveloper@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/boipelo-zuma-682522136/
 
 <!---
 PeloDev/PeloDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
