@@ -16,20 +16,20 @@
 
 <summary>🗣️ Top Languages</summary>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pelodev&show_icons=true&locale=en&layout=compact" alt="pelodev" /></p>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pelodev&show_icons=true&locale=en&layout=compact" alt="pelodev" /></div>
 
 <br/>
 <br/>
 
 <summary>:zap: Github stats</summary>
 <br/>
-<p><img align="left" alt="PeloDev's Github Stats" src="https://github-readme-stats-jet-theta.vercel.app/api?username=PeloDev&show_icons=true&hide_border=true" /></p>
+<div><img align="left" alt="PeloDev's Github Stats" src="https://github-readme-stats-jet-theta.vercel.app/api?username=PeloDev&show_icons=true&hide_border=true" /></div>
 
 <br/>
 <br/>
 <summary>📈 Streak stats</summary>
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pelodev&" alt="pelodev" /></p>
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pelodev&" alt="pelodev" /></div>
 
 <br/>
 <br/>
