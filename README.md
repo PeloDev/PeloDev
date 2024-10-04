@@ -23,7 +23,7 @@
 
 <summary>:zap: Github stats</summary>
 <br/>
-<img align="left" alt="PeloDev's Github Stats" src="https://github-readme-stats-jet-theta.vercel.app/api?username=PeloDev&show_icons=true&hide_border=true" />
+<p><img align="left" alt="PeloDev's Github Stats" src="https://github-readme-stats-jet-theta.vercel.app/api?username=PeloDev&show_icons=true&hide_border=true" /></p>
 
 <br/>
 <br/>
