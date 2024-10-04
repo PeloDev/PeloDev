@@ -17,19 +17,19 @@
 <details>
   <summary>🗣️ Top Languages</summary>
   <br/>
-  <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pelodev&show_icons=true&locale=en&layout=compact" alt="pelodev" /></div>
+  <div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pelodev&show_icons=true&locale=en&layout=compact" alt="pelodev" /></div>
 </details>
 
 <details>
   <summary>:zap: Github stats</summary>
   <br/>
-  <div><img align="left" alt="PeloDev's Github Stats" src="https://github-readme-stats-jet-theta.vercel.app/api?username=PeloDev&show_icons=true&hide_border=true" /></div>
+  <div><img alt="PeloDev's Github Stats" src="https://github-readme-stats-jet-theta.vercel.app/api?username=PeloDev&show_icons=true&hide_border=true" /></div>
 </details>
 
 <details>
   <summary>📈 Streak stats</summary>
   <br/>
-  <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pelodev&" alt="pelodev" /></div>
+  <div><img src="https://github-readme-streak-stats.herokuapp.com/?user=pelodev&" alt="pelodev" /></div>
 </details>
 
 <h3 align="left">Connect with me:</h3>
