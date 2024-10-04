@@ -15,17 +15,24 @@
 
 
 <summary>🗣️ Top Languages</summary>
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pelodev&show_icons=true&locale=en&layout=compact" alt="pelodev" /></p>
 
+<br/>
+<br/>
 
 <summary>:zap: Github stats</summary>
+<br/>
 <img align="left" alt="PeloDev's Github Stats" src="https://github-readme-stats-jet-theta.vercel.app/api?username=PeloDev&show_icons=true&hide_border=true" />
 
-
+<br/>
+<br/>
 <summary>📈 Streak stats</summary>
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pelodev&" alt="pelodev" /></p>
 
-
+<br/>
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/boipelo-zuma-682522136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boipelo-zuma-682522136" height="30" width="40" /></a>
