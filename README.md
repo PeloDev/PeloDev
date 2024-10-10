@@ -17,6 +17,7 @@
 <h4>🗣️ Top Languages</h4>
 <br/>
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pelodev&show_icons=true&locale=en&layout=compact" alt="pelodev" /></div>
+<!-- <div><img src="https://github-readme-stats-jet-theta.vercel.app/api/top-langs?username=pelodev&show_icons=true&locale=en&layout=compact" alt="pelodev" /></div> -->
 
 <h4>:zap: Github stats</h4>
 <br/>
